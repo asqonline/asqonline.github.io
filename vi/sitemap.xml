@@ -1,150 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/vi/</loc>
-    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/am/</loc>
-    <lastmod>2020-02-10T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/am/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/am/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/am/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/tdd/</loc>
-    <lastmod>2020-02-10T11:08:21+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/tdd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/tdd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/tdd/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/constructionmarket/</loc>
-    <lastmod>2020-02-10T11:08:20+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/constructionmarket/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/constructionmarket/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/constructionmarket/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/datascience/</loc>
-    <lastmod>2020-02-10T11:08:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/datascience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/datascience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/datascience/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/apps/</loc>
-    <lastmod>2019-10-19T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/apps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/apps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/apps/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/apps/weibulllcc/</loc>
-    <lastmod>2019-10-19T11:08:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/apps/weibulllcc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/apps/weibulllcc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/apps/weibulllcc/"
-                />
-  </url>
-  
-  <url>
+    <loc>/vi/about/content/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/vi/about/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/vi/en/about/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/vi/about/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -152,212 +20,24 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="jp"
-                href="/jp/about/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="vi"
                 href="/vi/about/"
                 />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url><url>
+    <loc>/vi/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/whatwedo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/whatwedo/"
+                href="/vi/"
                 />
+  </url><url>
+    <loc>/vi/en/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
   </url>
-  
-  <url>
-    <loc>/vi/blogs/</loc>
-    <lastmod>2017-10-31T22:27:21-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/blogs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/blogs/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/categories/</loc>
-    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/whatwedo/training/</loc>
-    <lastmod>2017-10-31T22:26:13-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/whatwedo/training/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/whatwedo/training/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/whatwedo/training/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/business/audit/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/business/audit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/business/audit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/business/audit/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/business/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/business/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/business/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/business/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/blogs/vlog01/</loc>
-  </url>
-  
-  <url>
-    <loc>/vi/business/datasolutions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/business/datasolutions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/business/datasolutions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/business/datasolutions/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/business/digitalmornitoring/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/business/digitalmornitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/business/digitalmornitoring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/business/digitalmornitoring/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/vi/business/transportation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/business/transportation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/business/transportation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="/vi/business/transportation/"
-                />
-  </url>
-  
 </urlset>
