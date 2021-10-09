@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/vi/about/content/</loc>
     <lastmod>2021-10-02T21:40:29+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/vi/about/</loc>
     <lastmod>2021-10-02T21:40:29+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/vi/en/about/</loc>
     <lastmod>2021-10-02T21:40:29+08:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/vi/about/</loc>
     <lastmod>2021-10-02T21:40:29+08:00</lastmod>
     <xhtml:link
@@ -23,7 +30,9 @@
                 hreflang="vi"
                 href="/vi/about/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/vi/</loc>
     <lastmod>2021-10-02T21:40:29+08:00</lastmod>
     <xhtml:link
@@ -36,8 +45,11 @@
                 hreflang="vi"
                 href="/vi/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/vi/en/</loc>
     <lastmod>2021-10-02T21:40:29+08:00</lastmod>
   </url>
+  
 </urlset>
